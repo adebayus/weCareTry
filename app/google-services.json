@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "654554579264",
+    "firebase_url": "https://wecaretry.firebaseio.com",
+    "project_id": "wecaretry",
+    "storage_bucket": "wecaretry.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654554579264:android:68cac47474110400",
+        "android_client_info": {
+          "package_name": "com.example.home.wecaretry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654554579264-d1p311n5cgrnadvppbpldnggo874tscl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.home.wecaretry",
+            "certificate_hash": "777b241b152fe9bae664056404cd65e464e4fa15"
+          }
+        },
+        {
+          "client_id": "654554579264-euhj2m1hcdiedmv8cjda82jloiam21dr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKGbb_AsgELsxI3alxDUC9LtS5XXAH-8U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654554579264-euhj2m1hcdiedmv8cjda82jloiam21dr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
